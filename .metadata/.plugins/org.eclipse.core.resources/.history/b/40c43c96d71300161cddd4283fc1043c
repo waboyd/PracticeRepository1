@@ -1,0 +1,7 @@
+
+public class Start {
+
+	public static void main() {
+		System.out.println("The program completed execution.");
+	}
+}
