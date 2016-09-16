@@ -1,0 +1,28 @@
+SwiftVISA
+Nano-inkjet printer
+	200 nm resolution
+C-VISA
+PyVISA
+Swift: Apple's new developer language
+	object-oriented
+owen.hildeth@asu.edu
+graphs data files automatically
+
+
+Autonomous Golf Cart Initiative
+Will Hick
+Arduino
+Ultrasonic sensors
+Vision learning software
+Last mile
+Pilot program by January 2017
+Neural networks and optimizers to mimic human driving
+Profit sharing
+Inspired by comma.ai
+tradeschooler@gmail.com
+
+
+Git
+no centralized repository
+git-scm.com/downloads
+commands: add, branch, checkout, clone, commit, merge, pull, push
